@@ -1,0 +1,3 @@
+[submodule "merlyne-submodule"]
+	path = merlyne-submodule
+	url = git@github.com:Merlynetest/Mertest_sub1.git
